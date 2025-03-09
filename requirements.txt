@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+numpy
+Pillow
+opencv-python
+matplotlib
+seaborn
+pandas
+gdown
+zipfile
