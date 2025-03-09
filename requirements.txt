@@ -7,4 +7,5 @@ matplotlib
 seaborn
 pandas
 gdown
+openai
 
